@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ w\ h
+comment0.target=ThinkDrink(java.lang.String,\ double,\ double)
+comment1.params=
+comment1.target=void\ calcCaffeineLimit()
+comment2.params=
+comment2.target=double\ getCaffeineLimit()
+comment3.params=
+comment3.target=java.lang.String\ whatDrink()
+comment4.params=
+comment4.target=void\ addtoGoalOther()
+numComments=5
